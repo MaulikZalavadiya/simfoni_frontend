@@ -1,0 +1,517 @@
+@media only screen and (min-width: 300px) {
+  .responsive-main-container {
+    display: block;
+    padding: 10px;
+    padding-inline: 20px;
+    background-color: #f47327;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 447px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-text {
+    color: #ffff;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Roboto";
+    width: 135px;
+  }
+
+  .responsive-image {
+    width: 299px;
+    height: 410px;
+    margin-top: 15px;
+  }
+
+  .responsive-horizontal-image-container {
+    display: block;
+    align-items: center;
+    align-items: baseline;
+  }
+
+  .responsive-store-imag {
+    width: 150.55px;
+    height: 44.85px;
+    margin-top: 10px;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 25px;
+    width: auto;
+  }
+
+  .responsive-about-sub-container {
+    margin-top: 61px;
+    display: block;
+  }
+
+  .responsive-squere-image {
+    width: 395px;
+    height: 315px;
+    border-radius: 20px;
+  }
+
+  .responsive-text-container {
+    margin-left: 0px;
+  }
+
+  .responsive-card-container {
+    width: auto;
+    height: auto;
+    background: #ffffff;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding-block: 5px;
+    padding-inline: 15px;
+    margin-top: 20px;
+  }
+
+  .responsive-card-container:hover {
+    background: #f47327;
+  }
+
+  .responsive-mobile-image {
+    width: 202.67px;
+    height: 412.27px;
+    padding-inline: 73px;
+  }
+
+  .responsive-imag-10 {
+    width: 180px;
+    height: 366.16px;
+    margin-top: 10px;
+  }
+
+  .responsive-imag-8 {
+    width: 180px;
+    height: 366.16px;
+    margin-top: 10px;
+  }
+  
+  .responsive-imag-6 {
+    width: 180px;
+    height: 366.16px;
+    margin-top: 10px;
+
+  }
+}
+
+@media only screen and (min-width: 500px) {
+.responsive-main-container {
+    display: block;
+    padding-block-end: 10px;
+    padding-inline:70px;
+    background-color: #f47327;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 147px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 26px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-horizontal-image-container {
+    display: block;
+    align-items: center;
+    align-items: baseline;
+  }
+
+  .responsive-store-imag {
+    width: 150.55px;
+    height: 44.85px;
+    margin-top: 10px;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 75px;
+    width: auto;
+  }
+
+  .responsive-imag-10 {
+    width: 180px;
+    height: 366.16px;
+  }
+
+  .responsive-imag-8 {
+    width: 180px;
+    height: 366.16px;
+  }
+  
+  .responsive-imag-6 {
+    width: 180px;
+    height: 366.16px;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .responsive-main-container {
+    display: block;
+    padding-block-end: 10px;
+    padding-inline: 150px;
+    background-color: #f47327;
+    width: auto;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 147px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 26px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-horizontal-image-container {
+    display: block;
+    align-items: center;
+    align-items: baseline;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 95px;
+    width: auto;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .responsive-main-container {
+    display: block;
+    padding-inline: 200px;
+    background-color: #f47327;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 197px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 125px;
+    width: auto;
+  }
+
+  .responsive-imag-10 {
+    width: 180px;
+    height: 366.16px
+  }
+
+  .responsive-imag-8 {
+    width: 180px;
+    height: 366.16px
+  }
+  
+  .responsive-imag-6 {
+    width: 180px;
+    height: 366.16px;
+  }
+} 
+
+@media only screen and (min-width: 810px) {
+  .responsive-main-container {
+    display: block;
+    padding-inline: 230px;
+    background-color: #f47327;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 197px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 225px;
+    width: auto;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 155px;
+    width: auto;
+  }
+} 
+
+@media only screen and (min-width: 900px) {
+  .responsive-main-container {
+    display: block;
+    padding-inline: 230px;
+    background-color: #f47327;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 197px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 185px;
+    width: auto;
+  }
+
+  .responsive-imag-10 {
+    width: 150px;
+    height: 305.13px;
+  }
+
+  .responsive-imag-8 {
+    width: 150px;
+    height: 305.13px;
+  }
+  
+  .responsive-imag-6 {
+    width: 150px;
+    height: 305.13px;
+  }
+} 
+
+@media only screen and (min-width: 1024px) {
+  .responsive-main-container {
+    display: block;
+    padding-inline: 230px;
+    background-color: #f47327;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 197px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 225px;
+    width: auto;
+  }
+
+  .responsive-imag-10 {
+    width: 135px;
+    height: 274.64px;
+  }
+
+  .responsive-imag-8 {
+    width: 150px;
+    height: 305.13px;
+  }
+  
+  .responsive-imag-6 {
+    width: 180px;
+    height: 366.16px;
+  }
+
+  .responsive-mobile-image {
+    width: 265.67px;
+    height: 512.27px;
+  }
+} 
+
+@media only screen and (min-width: 1124px) {
+  .responsive-main-container {
+    display: flex;
+    padding-inline: 280px;
+    background-color: #f47327;
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 197px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-text {
+    color: #ffff;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Roboto";
+    width: 345px;
+  }
+
+  .responsive-image {
+    width: 277.39px;
+    height: 358.75px;
+    position: absolute;
+    top: 200px;
+  }
+
+  .responsive-container {
+    padding: 10px;
+    background-color: #ffff;
+    padding-inline: 225px;
+    width: auto;
+  }
+
+  .responsive-imag-10 {
+    width: 135px;
+    height: 274.64px;
+  }
+
+  .responsive-imag-8 {
+    width: 150px;
+    height: 305.13px;
+  }
+  
+  .responsive-imag-6 {
+    width: 180px;
+    height: 366.16px;
+  }
+
+  .responsive-mobile-image {
+    width: 265.67px;
+    height: 512.27px;
+  }
+
+  .responsive-text-container {
+    margin-left: 0px;
+  }
+} 
+  
+@media only screen and (min-width: 1230px) {
+  .responsive-main-container {
+    display: flex;
+    padding-inline: 275px;
+    background-color: #f47327;
+    justify-content: space-between;
+    
+  }
+
+  .responsive-title-text-container {
+    align-items: center;
+    width: 257px;
+    height: 234px;
+  }
+
+  .responsive-title-text {
+    color: #ffff;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: "Roboto";
+    text-transform: uppercase;
+  }
+
+  .responsive-text {
+    color: #ffff;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Roboto";
+    width: 435px;
+  }
+
+  .responsive-image {
+    width: 299px;
+    height: 410px;
+    position: absolute;
+    margin-left: 92px;
+    top: 150px;
+  }
+
+  .responsive-store-imag {
+    width: 150.55px;
+    height: 44.85px;
+  }
+
+  .responsive-container {
+    padding: 15px;
+    background-color: #ffff;
+    padding-inline: 275px;
+    width: auto;
+  }
+
+  .responsive-about-sub-container {
+    margin-top: 61px;
+    display: flex;
+  }
+
+  .responsive-squere-image {
+    width: 455px;
+    height: 375px;
+    border-radius: 20px;
+  }
+
+  .responsive-mobile-image {
+    width: 265.67px;
+    height: 512.27px;
+    padding-block: 85px;
+  }
+
+  .responsive-text-container {
+    margin-left: 0px;
+  }
+}

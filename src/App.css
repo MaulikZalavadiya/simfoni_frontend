@@ -1,0 +1,14 @@
+.App {
+  flex: 1;
+  width: auto;
+}
+
+/* .main {
+  height: auto;
+  overflow: scroll;
+} */
+
+::-webkit-scrollbar {
+  height: 0px;              /* height of horizontal scrollbar ← You're missing this */
+  width: 0px;
+}
