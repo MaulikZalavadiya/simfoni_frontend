@@ -1,14 +1,25 @@
 .App {
   flex: 1;
-  width: auto;
+  width: 100%;
 }
 
-/* .main {
-  height: auto;
-  overflow: scroll;
-} */
+.dashboard-main-container {
+  margin-top: 50px;
+  overflow: visible;
+}
+
 
 ::-webkit-scrollbar {
-  height: 0px;              /* height of horizontal scrollbar ← You're missing this */
-  width: 0px;
+  height: 10px;              /* height of horizontal scrollbar ← You're missing this */
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background: rgba(245, 252, 252, 0.25);
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+  background: rgb(184, 182, 182); 
+  border-radius: 10px;
 }
